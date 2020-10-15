@@ -1,0 +1,4 @@
+Welcome to our game
+
+This is a Two player game with two two kinds of obstacles fixed and moving.
+Player has to reach end by crossing obstacles safely. a player is safe when he is in bank of river. he is get 5 marks if he crosses a fixed obstacle safely. He will get 10 marks if he crosses a moving obstacle.When player1 finishes the game sucessfully or dies in the middle ,player2 starts from his starting positon. End position of player1 is starting position of player2. At last winner will be calculated based on his score and time taken. For the winner spped of moving obstacles increases in the next level.. 

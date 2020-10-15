@@ -1,0 +1,30 @@
+66 185 245
+245 160 66
+252 78 3
+245 236 66
+0 0 0
+hit an obstacle
+Success
+player2 is winner
+hit an obstacle
+Success
+player2 is winner
+hit an obstacle
+hit an obstacle
+player2 is winner
+hit an obstacle
+Success
+player2 is winner
+hit an obstacle
+hit an obstacle
+player2 is winner
+hit an obstacle
+hit an obstacle
+player2 is winner
+hit an obstacle
+Success
+player2 is winner
+hit an obstacle
+hit an obstacle
+player1 is winner
+hit an obstacle
